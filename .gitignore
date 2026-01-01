@@ -1,0 +1,21 @@
+# KiCad essentials
+*.kicad_prl
+*-cache.lib
+fp-info-cache
+*.kicad_dbl
+*-bak
+*-backup
+*-save
+*.000
+
+# Gerbers and outputs (generated)
+*.gbr
+*.drl
+*.pos
+*.gbrjob
+*.step
+*.stp
+*.bom
+*.net
+*.dsn
+*.xml
