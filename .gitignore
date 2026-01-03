@@ -19,3 +19,6 @@ fp-info-cache
 *.net
 *.dsn
 *.xml
+
+# removing zipfiles for the backups that pop up
+*.zip
